@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Blog.Integration.Tests
 {
     [TestFixture]
-    public class TestClass
+    public class IntegrationTests
     {
         [Test]
         public void TestMethod()

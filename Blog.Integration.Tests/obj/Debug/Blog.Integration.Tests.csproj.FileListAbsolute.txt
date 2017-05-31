@@ -1,0 +1,7 @@
+C:\Users\Animoko\Desktop\TC2\Blog\Blog.Integration.Tests\bin\Debug\Blog.Integration.Tests.dll
+C:\Users\Animoko\Desktop\TC2\Blog\Blog.Integration.Tests\bin\Debug\Blog.Integration.Tests.pdb
+C:\Users\Animoko\Desktop\TC2\Blog\Blog.Integration.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Animoko\Desktop\TC2\Blog\Blog.Integration.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Animoko\Desktop\TC2\Blog\Blog.Integration.Tests\obj\Debug\Blog.Integration.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Animoko\Desktop\TC2\Blog\Blog.Integration.Tests\obj\Debug\Blog.Integration.Tests.dll
+C:\Users\Animoko\Desktop\TC2\Blog\Blog.Integration.Tests\obj\Debug\Blog.Integration.Tests.pdb

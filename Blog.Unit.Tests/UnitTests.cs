@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Blog.Unit.Tests
 {
     [TestFixture]
-    public class TestClass
+    public class UnitTests
     {
         [Test]
         public void TestMethod()
